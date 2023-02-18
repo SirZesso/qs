@@ -1,7 +1,7 @@
 package ch.hftm.rechner;
 
 public class Calculator {
-
+// asdfasdf
 	public double pls(double a, double b) {
 		return a;
 	}

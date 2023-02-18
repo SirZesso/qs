@@ -1,9 +1,10 @@
 package ch.hftm.rechner;
 
 public class Calculator {
-// asdfasdf
+// Plus
 	public double pls(double a, double b) {
-		return a;
+		double c = a+b;
+		return c;
 	}
 
 	public double m(double a, double b) {
